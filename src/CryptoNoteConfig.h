@@ -111,7 +111,7 @@ const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "blockchainindice
 const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json";
 } // parameters
 
-const char     CRYPTONOTE_NAME[]                             = "pluracoin";
+const char     CRYPTONOTE_NAME[]                             = "mytestcoin";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001bda282a38eab04029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210189788f801e9eb598528bc4a0f2e8dd213fb193df21e1b2d5c1522fc0b529c751";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
